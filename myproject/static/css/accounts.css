@@ -1,0 +1,15 @@
+body{
+	background-image: url('../img/background.png');
+}
+.logo{
+	font-family: 'BioRhyme+Expanded', cursive;
+}
+
+.logo a{
+	color: rgba(0,0,0,.9);
+}
+
+.logo a: hover;
+.logo a: active {
+	text-decoration: none;
+}
